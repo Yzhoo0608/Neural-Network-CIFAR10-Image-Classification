@@ -1,2 +1,2 @@
-# Cifar10-non-airplane-dataset
-Generate a dataset of 2,000 images from the CIFAR-10 open dataset, excluding class 0 (airplane), for non-airplane image classification experiments using neural networks.
+# neural-network-cifar10-image-classification
+A neural network project using the CIFAR-10 dataset to prepare 2,000 images, excluding the airplane class, for image classification experiments.
